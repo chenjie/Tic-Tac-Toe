@@ -26,6 +26,10 @@ $ python3 tictactoe_program.py
 | ---------------- | ------------------------------------------ | -------------------------
 | Chenjie Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
 
+## Thoughts and future improvements 
+
+* Since this is a rather simple beginner's project, no further improvements will be made.
+
 ## Contributing to this project
 
 1. Fork it ( https://github.com/jellycsc/Tic-Tac-Toe/fork )
@@ -39,7 +43,3 @@ Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-
 ## Bug Reporting
 Please log bugs under [Issues](https://github.com/jellycsc/Tic-Tac-Toe/issues) tab on github.  
 OR you can shoot an email to <nichenjie2013@gmail.com>
-
-## Thoughts and future improvements 
-
-* Since this is a rather simple beginner's project, no further improvements will be made.
