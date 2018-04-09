@@ -20,3 +20,26 @@ $ cd Tic-Tac-Toe/
 # Let's start playing
 $ python3 tictactoe_program.py
 ```
+## Authors
+
+| Name             | GitHub                                     | Email
+| ---------------- | ------------------------------------------ | -------------------------
+| Chenjie Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
+
+## Contributing to this project
+
+1. Fork it ( https://github.com/jellycsc/Tic-Tac-Toe/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to your feature branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
+
+Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
+
+## Bug Reporting
+Please log bugs under [Issues](https://github.com/jellycsc/Tic-Tac-Toe/issues) tab on github.  
+OR you can shoot an email to <nichenjie2013@gmail.com>
+
+## Thoughts and future improvements 
+
+* Since this is a rather simple beginner's project, no further improvements will be made.
