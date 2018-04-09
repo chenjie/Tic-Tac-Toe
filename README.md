@@ -7,6 +7,7 @@ Try it: https://www.google.com/search?q=tic+tac+toe
 ### Prerequisites
 
 * Python 3.x
+* Termial (in Unix) OR PowerShell (in Windows)
 
 ### Download and play
 ```
