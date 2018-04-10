@@ -7,7 +7,7 @@ Try it: https://www.google.com/search?q=tic+tac+toe
 ### Prerequisites
 
 * Python 3.x
-* Termial (in Unix) OR PowerShell (in Windows)
+* Terminal (in Unix) OR PowerShell (in Windows)
 
 ### Download and play
 ```
@@ -27,7 +27,7 @@ $ python3 tictactoe_program.py
 | ---------------- | ------------------------------------------ | -------------------------
 | Chenjie Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
 
-## Thoughts and future improvements 
+## Thoughts and future improvements
 
 * Since this is a rather simple beginner's project, no further improvements will be made.
 
@@ -42,5 +42,5 @@ $ python3 tictactoe_program.py
 Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 
 ## Bug Reporting
-Please log bugs under [Issues](https://github.com/jellycsc/Tic-Tac-Toe/issues) tab on github.  
+Please log bugs under [Issues](https://github.com/jellycsc/Tic-Tac-Toe/issues) tab on Github.  
 OR you can shoot an email to <nichenjie2013@gmail.com>
